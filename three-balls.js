@@ -10,22 +10,6 @@ var ballX3 = 30;
 var ballY3 = 30;
 var ballSpeed3 = 5;
 
-var ballX4 = 25;
-var ballY4 = 100;
-var ballSpeed4 = 4;
-
-var ballX5 = 250;
-var ballY5 = 25;
-var ballSpeed5 = 6;
-
-var ballX6 = 25;
-var ballY6 = 25;
-var ballSpeed6 = 5;
-
-var ballX7 = 25;
-var ballY7 = 25;
-var ballSpeed7 = 5;
-
 
 function setup() {
   createCanvas(400, 400);

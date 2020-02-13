@@ -1,7 +1,8 @@
 # hw3
 
 Bouncing balls + lawn mower
-<br>
+
+
 Lawn Mower Questions
 1. What code draws the blades of grass?
 
